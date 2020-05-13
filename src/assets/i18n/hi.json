@@ -1,0 +1,17 @@
+{
+	"login": {
+		"title": "लॉगइन फॉर्म",
+		"username.label": "उपयोगकर्ता नाम",
+		"username.placeholder": "उपयोगकर्ता नाम यहाँ",
+		"password.label": "पासवर्ड",
+		"password.placeholder": "पास वर्ड दर्ज करें",
+		"button.name": "साइन इन करें",
+		"forgotpassword.link": "पासवर्ड भूल गए ?",
+		"register.link": "Create New Account",
+		"button.en": "अंग्रेज़ी",
+		"button.ta": "तामिल",
+		"button.fr": "फ्रेंच",
+		"button.zh": "चीनी",
+    "button.hi": "हिन्दी"
+	}
+}
